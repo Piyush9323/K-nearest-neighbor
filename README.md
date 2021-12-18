@@ -12,5 +12,5 @@ K-NN algorithm assumes the similarity between the new case/data and available ca
 
 Example: Suppose, we have an image of a creature that looks similar to cat and dog, but we want to know either it is a cat or dog. So for this identification, we can use the KNN algorithm, as it works on a similarity measure. Our KNN model will find the similar features of the new data set to the cats and dogs images and based on the most similar features it will put it in either cat or dog category.
 
-I have implemented KNN in python without using any in-built library.
+##I have implemented KNN in python without using any in-built library.
 First some visualization of data is done and then, it is tested on famous UCI- IRIS dataset.
